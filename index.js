@@ -1,5 +1,8 @@
-console.log("Hello World!");
+console.log("Deleted unnecessary log statements");
 
-console.log("Hello Mars");
 
-console.log("Armando adding a new logger");
+var x  = 10;
+
+function add (a, b) {
+    return a + b;
+}
